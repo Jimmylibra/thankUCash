@@ -27,11 +27,9 @@ height:auto;
 {   
 
     background: url("../img/home/bg3.png");
-    height:110%;
-    object-fit: contain;
+    height:auto;
+    padding-bottom:7%;
     background-repeat: no-repeat;
-    background-size:cover;
-    
 
 }
 .container{
@@ -43,7 +41,7 @@ height:auto;
     background-image: url("../img/home/testimony bg.png");
     height:auto;
     z-index:500 !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
     background-size:cover;
     width:100% !important; 
     position: relative;
@@ -111,7 +109,7 @@ border-radius: 8px;
 }
 .cul{
     height:auto;
-    width:120%;
+    width:100%;
 }
 .head{
     margin-top: 20%;
@@ -163,6 +161,7 @@ font-style: normal;
     background: #FAFAFC;
     border: 1px solid #D3D4D8;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    
 }
 .Card .view{
     margin-top:-50px;
@@ -212,6 +211,7 @@ font-style: normal;
 .merchants{
     margin-top:150px; 
 }
+
 .merchants h4{
     color:#452661;
     font-size:30px;
@@ -332,6 +332,10 @@ color: #180926;
     text-decoration:none;
 }
 .img3{
+    height:auto;
+    width:10%;
+}
+.img{
     height:auto;
     width:10%;
 }

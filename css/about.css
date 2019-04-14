@@ -21,15 +21,13 @@ nav ul a:hover{
 .c1
 {  
     background-image: url("../img/about/bg.png") !important;
-
     height:auto;
     padding:5% 0%;
     background-repeat: no-repeat;
-    background-size: cover;
-    padding-bottom:20%;
 
- 
+    padding-bottom:20%;
 }
+
 .c1 .card{
     background: #FAFAFC;
     border: 1px solid #F0F1F3;
