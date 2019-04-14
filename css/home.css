@@ -1,0 +1,337 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    height:100%;
+
+}
+
+nav{
+    background-color:#733ea7;
+    z-index: 100;
+}
+.bg-nav{
+    background-color:#2f1944;
+    opacity:0.8;
+}
+nav ul a{
+    color:white !important;
+    font-size:15px;
+}
+nav ul a:hover{
+    background-color:black !important;
+}
+.container-fluid{
+background:transparent;
+height:auto;
+}
+.c1
+{   
+
+    background: url("../img/home/bg3.png");
+    height:110%;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+
+}
+.container{
+    background:transparent;
+    
+}
+.c2
+{   
+    background-image: url("../img/home/testimony bg.png");
+    height:auto;
+    z-index:500 !important;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:100% !important; 
+    position: relative;
+}
+.c4
+{ 
+    background:url("../img/navfooter/bg-foot.png") !important;
+    height: auto;
+    padding-top:150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.c4 a{
+    font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+
+color: #180926;
+
+}
+.container-fluid{
+    background-color: transparent;
+}
+
+
+.jumbotron{
+    background: transparent;
+    border:none;
+    box-shadow: none;
+    height:auto;
+    color:#452661 ;background-color:#aa8bc9 !important;
+    padding-top:80px;
+}
+.jumbotron h2{
+    font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+
+color: #452661;
+}
+.jumbotron a{
+    background: #733EA7;
+border-radius: 8px;
+    padding:12px 20px !important; 
+    font-size: 14px !important;
+}
+.container-fluid{
+    background-color: none;
+}
+.h11{
+    color:white;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 50px;
+}
+.p1{
+    color:rgb(238, 237, 237) !important;
+    font-weight:300;
+    font-size: 22px;
+    line-height: 33px;
+}
+.margin{
+    margin-top:10%;
+}
+.cul{
+    height:auto;
+    width:120%;
+}
+.head{
+    margin-top: 20%;
+}
+.merch_logos img{
+    height:50px; 
+    width:10%;
+}
+.h2{
+    font-weight: bold;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+
+color: #452661;
+
+}
+.lead a {
+    
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight:700 !important;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 0.5px;
+text-transform: uppercase;
+padding:11px 25px;
+
+color: #452661;
+}
+.button:hover{
+    background-color:rgb(240, 240, 240) !important;    
+}
+.p2{
+    margin-top:10% !important; 
+    font-size: 17px;
+    line-height: 24px;
+    font-weight:lighter;
+    color: #180926;
+}
+.Card .cards h2{
+    font-weight:400;
+    color: #452661 !important;
+    line-height: 39px;
+
+font-style: normal;
+}
+.Card .card{
+    background: #FAFAFC;
+    border: 1px solid #D3D4D8;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+.Card .view{
+    margin-top:-50px;
+    
+}
+.Card .card-img-top{
+    text-align:center;
+    height:100px;
+    width:130px !important;
+}
+.Card .card-body{
+    height:300px !important;
+}
+.Card .card-body h4{
+    font-style: normal;
+    font-weight:bolder !important;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #452661;
+}
+.Card .card-body p{
+    font-size: 12px;
+    line-height: 24px;
+    color: #544C5D;
+    
+}
+.Card .card-footer h5{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight:bold;
+    color: #180926;
+}
+.Card .card-footer p{
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+    
+    color: #180926;
+}
+.margin-top{
+    margin-top:10% !important;
+}
+.margin-bottom{
+    margin-bottom:10%;
+}
+.merchants{
+    margin-top:150px; 
+}
+.merchants h4{
+    color:#452661;
+    font-size:30px;
+}
+.merchant_cards{
+    margin-top:60px;
+}
+
+.merch_card{
+    height:350px;
+    width:400px !important;
+    border-radius:5px;
+    margin-left:50px;
+    padding:10px 5px;
+    padding-top:50px;
+}
+.merch_card p{
+    font-size:14px;
+}
+.img-footer{
+    height:auto;
+    width:5% !important;
+ 
+}
+.img-footer2{
+    height:auto;
+    width:60% !important;
+    margin-left:-6%;
+    margin-bottom:5%;
+}
+.footer h4{
+    font-size:30px !important;
+    font-weight:400;
+    color:#332640 ;
+}
+
+.bg2{
+    background-image: url("../img/home/bg2.png");
+    height:80%;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -1;
+    padding-top:250px;
+}
+.h5{
+    color:#332640 !important;
+}
+.merchants_logo h2{
+    
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+
+color: #452661; 
+}
+.merchants_logo img{
+    height:60px;
+    width:130px;
+}
+
+.merchants .card-header{
+    background:transparent; border:none;
+}
+.merchants .card-footer{
+    background:transparent; border:none;
+}
+.img-footer{
+    height:auto;
+    width:20% !important;
+}
+
+.h44{
+    font-weight: bolder !important;
+    font-size: 26px;
+    line-height: 32px;
+    color: #452661;
+}
+.p3{
+    font-weight: normal;
+font-size: 15px ;
+line-height: 24px;
+
+color: #544C5D;
+}
+.img2{
+    width:24% !important; 
+    line-height: 24px; 
+}
+.c4 h5{
+    font-weight:bolder !important;
+font-size: 20px;
+line-height: 24px;
+
+color: #180926;
+
+}
+.footer-copyright{
+    font-weight: 300;
+font-size: 12px;
+line-height: 16px;
+    margin-left:1%;
+color: #180926;
+}
+.button2{
+    font-size:14.5px !important;
+    background: rgb(85, 46, 124) !important;
+    color:white;
+    padding:8px 19px !important;
+}
+
+.button2:hover{
+    background: rgb(61, 33, 88) !important;
+    color:white;
+}
+.button2 a:hover{
+    text-decoration:none;
+}
+.img3{
+    height:auto;
+    width:10%;
+}

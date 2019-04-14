@@ -1,0 +1,139 @@
+<html>
+    <head>
+       <title>Registration</title>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+       <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.6/css/mdb.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/business-info.css">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark animated zoomInUp">
+            <div class="container col-xl-10">
+                  <!-- Navbar brand -->
+                  <a class="navbar-brand" href="#"><img src="./img/navfooter/logo1.png"></a>
+                
+                  <!-- Collapse button -->
+                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
+                    aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                
+                  <!-- Collapsible content -->
+                  <div class="collapse navbar-collapse" id="basicExampleNav">
+                
+                    <!-- Links -->
+                    <ul class="navbar-nav ml-auto mt-2 mt-lg-0 text-center">
+                          <li class="nav-item  ">
+                              <a class="nav-link" href="./home.html">Home <span class="sr-only">(current)</span></a>
+                          </li>
+                          <li class="nav-item pl-3">
+                              <a class="nav-link" href="./about.html">About</a>
+                          </li>
+                          <li class="nav-item dropdown pl-3">
+                              <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Solutions</a>
+                              <div class="dropdown-menu bg-nav" aria-labelledby="dropdownId">
+                                  <a class="dropdown-item" href="./banksolutions.html">Banking Solutions</a>
+                                  <a class="dropdown-item" href="./moresolutions.html">More Solutions</a>
+                              </div>
+                          </li>
+                          <li class="nav-item dropdown pl-3">
+                                <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+                                <div class="dropdown-menu bg-nav" aria-labelledby="dropdownId">
+                                    <a class="dropdown-item" href="./casestudy.html">Case Study</a>
+                                    <a class="dropdown-item" href="./reward.html">Rewards</a>
+                                </div>
+                            </li>
+                            <li class="nav-item pl-3">
+                                    <a class="nav-link" href="./login.html">Login</a>
+                            </li>
+                      </ul>
+                
+                  </div>
+                  </div>
+                  <!-- Collapsible content -->
+                
+                </nav>
+
+
+<form class="py-5">
+  <div class="container col-xl-4">
+        <h3 class="h3 mb-4 text-center" style="font-color:#452661;">Business Information</h3>
+    
+        <label for="textInput">Business Name</label>
+        <input type="text" id="textInput" class="form-control mb-4" placeholder="What is your business name?">
+    
+        <label for="textInput">Business Email</label>
+        <input type="text" id="textInput" class="form-control mb-4" placeholder="Lets have your business email">
+    
+        <label for="textInput">Business Phone</label>
+        <input type="text" id="textInput" class="form-control mb-4" placeholder="Please input your business phone number">
+        <label for="textInput">Business Type</label>
+        <div class="row">
+            <div class="custom-control custom-radio custom-control-inline ml-3">
+                <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
+                <label class="custom-control-label" for="customRadioInline1">Offline</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline ml-4">
+                  <input type="radio" id="customRadioInline2" name="customRadioInline1" class="custom-control-input">
+                  <label class="custom-control-label" for="customRadioInline2">Online</label>
+                </div>
+
+                <div class="custom-control custom-radio custom-control-inline ml-4">
+                    <input type="radio" id="customRadioInline3" name="customRadioInline1" class="custom-control-input">
+                    <label class="custom-control-label" for="customRadioInline3">Both</label>
+                  </div>
+  
+    </div><br/>
+    <label for="textarea" class="">Business Details</label>
+    <textarea id="textarea" class="form-control mb-4" style="width:100%; height:15%;" placeholder="Tell us about your business"></textarea>
+    <label for="customRange">Base Reward Percentage</label>
+    <input type="range" class="custom-range" id="customRange" name="points1">
+    <div class="row col-xl-10 mt-3">
+
+        <div class="custom-control custom-checkbox mb-4">
+        <input type="checkbox" class="custom-control-input" id="checkbox">
+        <label class="custom-control-label" for="checkbox">Default checkbox</label>
+    </div>
+
+    <div class="custom-control custom-checkbox ml-4  mb-4">
+        <input type="checkbox" class="custom-control-input " id="checkbox1">
+        <label class="custom-control-label" for="checkbox1">Default checkbox</label>
+    </div>
+
+    <div class="custom-control custom-checkbox mb-4">
+        <input type="checkbox" class="custom-control-input" id="checkbox2">
+        <label class="custom-control-label" for="checkbox2">Default checkbox</label>
+    </div>
+
+    <div class="custom-control custom-checkbox ml-4 mb-4">
+        <input type="checkbox" class="custom-control-input" id="checkbox3">
+        <label class="custom-control-label" for="checkbox3">Default checkbox</label>
+    </div>
+   
+    </div>
+    <br>
+    <p> Please tick needed service appropriately</p>
+        </div>
+
+  </div>
+    <div class="container col-xl-5 text">
+    <div class="row text-center">
+      <div class="col-xl-12 ">
+            <a role="button" href="./register.html" class="btn button btn-rounded mr-5 ">Previous</a>
+         
+            <a role="button "  href="./contactinfo.html" class="btn btn-rounded ml-5">Next</a>
+            </div>
+
+        </div>
+      </div>
+    </form>
+
+
+    </body>
+</html>

@@ -1,0 +1,52 @@
+nav{
+    background-color:#733ea7;
+}
+.bg-nav{
+    background-color:#733ea7;
+    opacity:0.8;
+}
+nav ul a{
+    color:white !important;
+}
+.c1
+{  background-image: url("bg.png");
+    background-color: #cccccc;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.c4
+{  background-image: url("bg2.png");
+    background-color: #cccccc;
+    height: 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.jumbotron1{
+    background: none;
+}
+.container-fluid{
+    background-color:transparent;
+}
+.jumbotron{
+    background-color: transparent;
+}
+.h11{
+    color:white;
+}
+.p1{
+    color:white;
+}
+.margin{
+    margin-top:5%;
+}
+.cul{
+    height:auto;
+    width:100%;
+}
+.head{
+    margin-top: 20%;
+}

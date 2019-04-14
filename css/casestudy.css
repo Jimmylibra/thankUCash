@@ -1,0 +1,178 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    background-color:#733ea7;
+}
+.bg-nav{
+    background-color:#2f1944;
+    opacity:0.8;
+}
+nav ul a{
+    color:white !important;
+    font-size:15px !important;
+}
+nav ul a:hover{
+    background-color:rgba(0, 0, 0, 0.1) !important;
+}
+.container-fluid{
+    padding:0 !important;
+    background: #FAFAFC;
+/* Elevation / 04 */
+box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+border-radius: 8px;
+}
+.jumbotron{
+
+background:transparent
+}
+.container{
+    height:auto;
+    width:auto;
+    
+}
+.margin{
+    margin-top:5%;
+}
+.cul{
+    height:auto;
+    width:100%;
+}
+.img{
+    height:auto;
+    width:100%;
+    margin-left:-8%;
+}
+.head{
+    margin-top: 20%;
+}
+.border{
+    border:20px;
+}
+.c4
+{    background-image:url("../img/casestudy/bg-foot.png") !important;
+    padding-top:150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.has{
+    background-color: #733ea7;
+    color:white;
+}
+.h4{
+    font-style: normal;
+font-weight: bolder;
+font-size: 18px;
+line-height: 24px;
+
+color: #452661;
+}
+
+.p2{
+    color:  #42265e !important;
+    font-size:17px;
+    font-weight:400;
+
+}
+.p3{
+    color:  #42265e !important;
+    font-size:15px;
+    font-weight:550;
+
+}
+.h3{
+    color:  #291738 !important;
+    font-size:27px;
+    font-weight:550;
+}
+.h1{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 39px;
+    text-align: center;
+    
+    color: #452661;
+}
+.p{
+    font-size: 22px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
+.h5{
+    font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+
+color: #544C5D;
+
+}
+.p4{
+    font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+color: #544C5D;
+
+}
+.button a{
+    color:white;
+    font-weight:900 !important;
+}
+.button:hover{
+    background: rgb(85, 46, 124);
+    color:white;
+}
+.button a:hover{
+    text-decoration:none;
+}
+.img-footer2{
+    width:60% !important;
+    margin-left:-6%;
+    margin-bottom:5%;
+}
+.c4 h5{
+    font-weight:900 !important;
+font-size: 20px;
+line-height: 24px;
+
+color: #180926;
+
+}
+.footer-copyright{
+    font-weight: 300;
+font-size: 12px;
+line-height: 16px;
+    margin-left:1%;
+color: #180926;
+}
+.c4 a{
+    font-weight: normal;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    
+    color: #180926 !important;
+    
+
+
+}
+
+.button2{
+    font-size:14.5px !important;
+    background: rgb(85, 46, 124) !important;
+    color:white;
+    padding:8px 19px !important;
+}
+
+.button2:hover{
+    background: rgb(61, 33, 88) !important;
+    color:white;
+}
+.button2 a:hover{
+    text-decoration:none;
+}

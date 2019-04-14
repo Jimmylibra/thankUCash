@@ -1,0 +1,209 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    background-color:#733ea7;
+    z-index: 100;
+}
+.bg-nav{
+    background-color:#2f1944;
+    opacity:0.8;
+}
+nav ul a{
+    color:white !important;
+    font-size:15px !important;
+}
+nav ul a:hover{
+    background-color:black !important;
+    opacity:0.4;
+    color:white;
+}
+.c1
+{  
+    background-image: url("../img/about/bg.png") !important;
+    height: 100%;
+    padding:5% 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ 
+}
+.c1 .card{
+    background: #FAFAFC;
+    border: 1px solid #F0F1F3;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding:3% 0% !important;
+}
+.c1 .card h1{
+    font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+text-align: center;
+
+color: #452661;
+}
+.container{
+    background-color: none;
+}
+.h11{
+    font-weight: 600;
+font-size: 42px;
+line-height: 50px;
+
+color: #FFFFFF;
+
+}
+.p1{
+    font-weight: 100 !important;
+font-size: 19px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+/* Text / Inverse */
+border-radius: 4px;
+}
+.p2{
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+
+color: #544C5D;
+
+}
+.margin{
+    margin-top:20%;
+}
+.cul{
+    height:auto;
+    width:90%;
+}
+.margin-top{
+    margin-top:30% !important;
+}
+.text-m{
+    margin-top:30%;
+    font-weight: 900;
+font-size: 30px;
+line-height: 39px;
+
+color: #452661;
+}
+
+.h3{
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 39px;
+    
+    color: #452661;
+}
+.btn{
+    box-shadow:none;
+    outline:0;
+    border:none;
+    padding:10px 55px;    
+    margin-top:-1.5%;
+}
+.h4{
+    padding-top:10px;
+    padding-left:50px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    
+    color: #733EA7 !important;
+}
+
+
+.p3{
+    font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+padding-left:48px;
+color: #544C5D;
+
+
+}
+.c4
+{ 
+    background:url(../img/about/bg-foot.png) !important;
+    height: auto;
+    padding-top:150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.c4 a{
+    font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+
+color: #180926;
+
+}
+.margin-top{
+    margin-top:10% !important;
+}
+.img-team{
+    height:auto;
+    width:95%;
+}
+.bg {
+    background: #FAFAFC;
+/* Elevation / 04 */
+box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+border-radius: 8px;
+}
+.img-footer2{
+    height:auto;
+    width:60% !important;
+    margin-left:-6%;
+    margin-bottom:5%;
+}
+.c4 h5{
+    font-weight:bolder !important;
+font-size: 20px;
+line-height: 24px;
+
+color: #180926;
+
+}
+.footer-copyright{
+    font-weight: 300;
+font-size: 12px;
+line-height: 16px;
+    margin-left:1%;
+color: #180926;
+}
+
+.button2{
+    font-size:14.5px !important;
+    background: rgb(85, 46, 124) !important;
+    color:white;
+    padding:8px 19px !important;
+}
+
+.button2:hover{
+    background: rgb(61, 33, 88) !important;
+    color:white;
+}
+.button2 a:hover{
+    text-decoration:none;
+}
+.button1{
+    background: #733EA7;
+    border-radius: 6px;
+}
+.button1:hover{
+    background: rgb(92, 50, 134);
+    border-radius: 6px;
+}
+.button1 a{
+    color: white;
+    font-weight:700;
+    font-size:13px;
+    text-decoration:none;
+}

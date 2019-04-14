@@ -1,0 +1,179 @@
+body{
+    height:100%;
+    font-family: sans-serif;
+    color:#452661 !important;
+    background-image: url(".../bg.jpg");
+}
+img{
+    width:100%;
+    height:auto;
+}
+.navbar{
+    background-color:#733ea7 !important;
+    padding-left:90px !important;
+    z-index: 100;
+}
+.navbar a{
+    padding-right:2em !important;
+    color:rgb(223, 221, 221) !important;
+}
+.jumbotron{
+    background-image:url("img/Home page/backgroundheader.png") !important;
+    box-shadow:none !important; 
+    background-color:#733ea7 !important;
+    color:white;
+    padding-top:100px;
+}
+.merch_logos img{
+    height:50px; 
+    width:100px;
+}
+.container h1{
+    font-size:40px !important;
+    font-weight:400;
+}
+.container p{
+    font-size:20px;
+}
+.container .button{
+    font-size:15px !important;
+    font-weight:600;
+    color:#592291;
+    padding:10px 20px;
+}
+.Card .cards h2{
+    font-weight:400;
+}
+.Card .view{
+    margin-top:-50px;
+}
+.Card .card-img-top{
+    text-align:center;
+    height:100px;
+    width:130px !important;
+}
+.Card .card-body{
+    height:300px !important;
+}
+.Card .card-body h4{
+    font-size:25px;
+    font-weight:500 !important;
+}
+.Card .card-body p{
+    font-size:17px;
+    text-align:center;
+    color:#5b5164;
+    padding:10px;
+}
+.info{
+    margin-top:200px;
+}
+.info h2{
+    font-weight:400;
+    font-size:35px;
+}
+.info h4{
+    font-weight:400;
+    font-size:30px;
+}
+.info p{
+    font-weight:400;
+    font-size:16px;
+}
+.cards_merch h2{
+    font-weight:400;
+    font-size:35px;
+}
+.cards_merch .card-body{
+    height:450px !important;
+}
+.cards_merch .card-body h4{
+    font-size:25px;
+    font-weight:500 !important;
+}
+.cards_merch .card-body p{
+    font-size:17px;
+    text-align:center;
+    color:#5b5164;
+    padding:10px;
+}
+.cards_merch .commas img{
+    height:35px;
+}
+.merchants{
+    margin-top:300px;
+}
+.merchants h2{
+    font-weight:400;
+    font-size:35px;
+}
+.merchants img{
+    height:auto;
+    width:10%;
+}
+.merchants .card-header{
+    border:none;
+    background:none;
+}
+.merchants .card-footer{
+    border:none;
+    background:none;
+    margin-top:none !important;
+}
+.merchants .card-footer img{
+    height:auto;
+    width:20%;
+}
+
+.merchants_logo{
+    margin-top:300px !important;
+}
+.merchants_logo img{
+    height:60px;
+    width:130px;
+}
+
+.img-footer{
+    height:auto;
+    width:10% !important;
+}
+.float-right{
+    float:right;
+}
+.font{
+    font-size:14px !important;
+    margin-top:none !important;
+    font-weight:none;
+}
+footer{
+    color:#592291 !important;
+    margin-top:300px;
+}
+footer h4{
+    margin-top:200px;
+    color:#592291;
+    margin-bottom:100px;
+    font-size:35px;
+}
+.footer h2{
+    font-size:35px !important;
+    font-weight:400 !important;
+}
+.bg1 {
+   /* The image used */
+   background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+
+   /* Full height */
+   height: 100%;
+ 
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.bg2{
+    background-color:#aa8bc9;
+    margin-top:300px;
+
+}

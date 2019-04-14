@@ -1,0 +1,349 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    background-color:#733ea7;
+    z-index: 100;
+}
+.bg-nav{
+    background-color:#2f1944;
+    opacity:0.8;
+}
+nav ul a{
+    color:white !important;
+    font-size:15px !important;
+}
+nav ul a:hover{
+    background-color:black !important;
+}
+.c1
+{  
+    background-image: url("../img/rewards/bg1.png");
+    height: 900px !important;
+    background-repeat: no-repeat;
+    width:100% !important;
+    background-size: contain;
+    position: relative;
+}
+
+.c4
+{ 
+    background-image:url("../img/navfooter/bg-foot.png") !important;
+    padding-top:150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.c2
+{  
+    background-image: url("../img/rewards/bg2.png");
+    padding-top:20%;
+    height:300% !important; 
+
+    z-index:500 !important;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:100% !important; 
+    position: relative;
+}
+.c3
+{  
+    
+
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+   
+}
+.container{
+    background-color: transparent;
+}
+.container-fluid{
+    
+    background-color: transparent;
+}
+.h11{
+    font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+
+color: #FFFFFF;
+
+}
+.p1{
+    font-weight: 100 !important;
+font-size: 18px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+/* Text / Inverse */
+border-radius: 4px;
+}
+.p2{
+    font-weight: normal;
+font-size: 22px;
+line-height: 33px;
+text-align: center;
+
+color: #180926;
+
+
+}
+.margin{
+    margin-top:20%;
+}
+.cul{
+    height:auto;
+    width:100%;
+}
+.text-m{
+    margin-top:30%;
+}
+
+
+.card .view{
+    margin-top:-60px;
+}
+.card-img-top{
+    text-align:center;
+    height:120px;
+    width:150px !important;
+}
+.card{
+    background: #FFFFFF;
+/* UI / 03 */
+border: 1px solid #F0F1F3;/* Elevation / 04 */
+box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+border-radius: 8px;
+padding-bottom:3%;
+}
+.card-body h4{
+    font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+text-align: center;
+
+color: #452661;
+
+}
+.card .card-body p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #544C5D;
+    
+}
+.merchants_logo img{
+    height:60px;
+    width:130px;
+}
+.margin-top{
+    margin-top:8%;
+}
+.margin-bottom{
+    margin-bottom:10%;
+}
+.merchants{
+    margin-top:150px; 
+}
+.merchants h4{
+    color:#452661;
+    font-size:30px;
+}
+.merchant_cards{
+    margin-top:60px;
+}
+.img{
+    height:auto;
+    width:12%;
+}
+.merch_card{
+    height:350px;
+    width:400px !important;
+    border-radius:5px;
+    margin-left:50px;
+    padding:10px 5px;
+    padding-top:50px;
+}
+.merch_card p{
+    font-size:14px;
+}
+.img-mfooter{
+    height:auto;
+    width:15% !important;
+}
+.img-footer{
+    height:auto;
+    width:5% !important;
+}
+.footer h4{
+    font-size:30px !important;
+    font-weight:400;
+    color:#332640 ;
+}
+
+.bg2{
+    background-image: url("merchant logos/bg2.png");
+    height:80%;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -1;
+    padding-top:250px;
+}
+.h4{
+    font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+
+color: #452661;
+
+}
+.head-img{
+    margin-left:-3%;
+    height:auto;
+    width:40%;
+}
+.scroll{
+    margin-top:-10%;
+}
+.scroll p{
+    font-weight: normal;
+font-size: 12px;
+line-height: normal;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #180926;
+}
+.scroll img{
+    width:5% !important;
+    opacity:0.5;
+}
+.h1{
+    font-weight: 600;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+
+color: #452661;
+}
+.p3{
+    font-weight: normal;
+font-size: 22px;
+line-height: 33px;
+text-align: center;
+
+color: #180926;
+}
+.img-mid{
+    
+        height:auto;
+        width:70%;
+        background: #F0F1F3;
+        /* Elevation / 04 */
+        box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+}
+.img-mid2{
+    
+    height:auto;
+    width:50%;
+    background: #F0F1F3;
+    /* Elevation / 04 */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+.img-footer{
+    height:auto;
+    width:20% !important;
+}
+.merchants .card{
+    height:21%;
+    width:100%;
+}
+.merchants .card-body h4{
+    font-style: normal;
+    font-weight:bolder !important;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #452661;
+}
+.merchants .card-body p{
+    font-size: 12px;
+    line-height: 24px;
+    color: #544C5D;
+    
+}
+.merchants  .card-footer{
+    background:transparent;
+    border:0;
+}
+.merchants  .card-footer h5{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight:bold;
+    color: #180926;
+}
+.merchants  .card-footer p{
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+    
+    color: #180926;
+}
+.img-footer2{
+    width:60% !important;
+    margin-left:-6%;
+    margin-bottom:5%;
+}
+.c4 h5{
+    font-weight:900 !important;
+font-size: 20px;
+line-height: 24px;
+
+color: #180926;
+
+}
+.footer-copyright{
+    font-weight: 300;
+font-size: 12px;
+line-height: 16px;
+    margin-left:1%;
+color: #180926;
+}
+.c4 a{
+    font-weight: normal;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    
+    color: #180926 !important;
+    
+
+
+}
+.button2{
+    font-size:14.5px !important;
+    background: rgb(85, 46, 124) !important;
+    color:white;
+    padding:8px 19px !important;
+}
+
+.button2:hover{
+    background: rgb(61, 33, 88) !important;
+    color:white;
+}
+.button2 a:hover{
+    text-decoration:none;
+}

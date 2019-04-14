@@ -1,0 +1,43 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    height:100%;
+
+}
+
+nav{
+    background-color:#733ea7 !important;
+    z-index: 100;
+}
+nav ul a{
+    color:white !important;
+    font-size:15px;
+}
+nav ul a:hover{
+    background-color:black !important;
+}
+.bg-nav{
+    background-color:#2f1944;
+    opacity:0.8;
+}
+
+nav ul a{
+    color:white !important;
+    font-size:15px;
+}
+.h4{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 39px;
+    text-align: center;
+    
+    color: #452661;
+    
+}
+.p{
+    font-weight: normal;
+font-size: 22px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}

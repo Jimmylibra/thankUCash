@@ -1,0 +1,111 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    height:100%;
+
+}
+
+nav{
+    background-color:#733ea7;
+    z-index: 100;
+}
+.bg-nav{
+    background-color:#2f1944;
+    opacity:0.8;
+}
+nav ul a{
+    color:white !important;
+    font-size:15px;
+}
+nav ul a:hover{
+    background-color:black !important;
+}   
+.h4{
+     color:#452661 !important;
+     font-size:30px;
+ }
+ .h3{
+     color:#452661 !important;
+ }
+ .p2{
+    color:black;
+ }
+ .container input{
+     height:auto;
+     width:100%;
+     padding:9px 13px;
+     font-size:14px;
+     font-weight:450;
+     border-color:#a1a4b1 !important;
+ }
+ .container input::placeholder{
+     color:rgb(145, 145, 145);
+     font-size:14px;
+ }
+ .container label{
+     font-weight:600;
+     font-size:14px !important;
+ }
+ .container .btn{
+     background-color:#733ea7;
+     color:white;
+     font-size:15px;
+     font-weight:700;
+     padding:10 15px;
+     border-style:0;
+     border-radius:6px;
+     height:auto;
+     width:20%;  
+     text-decoration:none;
+     outline:0;
+ }
+ 
+ .container .btn:hover{
+     background-color:#62358f;
+ }
+ .container p{
+    color:#696271 !important;
+    font-size:12px;
+}
+ .p1{
+     color:#696271 !important;
+     font-weight:450;
+ }
+ 
+ .a{
+     color:#733ea7;
+ }
+ .container .button1{
+    background-color:white;
+    color:white;
+    font-size:15px;
+    font-weight:500;
+    padding:10 0px;
+    border-style:0;
+    border-radius:8px;
+    height:auto;
+    width:35%;  
+    text-decoration:none;
+    outline:0;
+ }
+ .button{
+     background: #FFFFFF !important;
+    /* Brand / 01 */
+   border: 1px solid #733EA7 !important;
+    color:#733EA7 !important;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-size:15px;
+    font-weight:700;
+    padding:10 15px;
+    border-style:0;
+    border-radius:8px;
+    height:auto;
+    width:20%;  
+    text-decoration:none;
+    outline:0;
+}
+.button:hover{
+    background: rgb(235, 235, 235) !important;
+   /* Brand / 01 */
+
+}

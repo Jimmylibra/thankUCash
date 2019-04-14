@@ -1,0 +1,158 @@
+nav{
+    background-color:#733ea7;
+}
+.bg-nav{
+    background-color:#733ea7;
+    opacity:0.8;
+}
+nav ul a{
+    color:white !important;
+}
+.c1
+{  background-image: url("bg1.png");
+    background-color: #cccccc;
+    height: 110%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.c4
+{  background-image: url("merchant logos/bg1.png");
+    background-color: #cccccc;
+    height: 150%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.c2
+{  background-image: url("bg2.png");
+    background-color: #cccccc;
+    height: 450%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.c3
+{  background-image: url("mer.png");
+    background-color: #cccccc;
+    height: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.cul1{
+width:5%;
+height: auto;
+}
+.container{
+    background-color: transparent;
+}
+.container-fluid{
+    
+    background-color: transparent;
+}
+.h11{
+    color:white;
+}
+.p1{
+    color:white;
+}
+.margin{
+    margin-top:20%;
+}
+.cul{
+    height:auto;
+    width:100%;
+}
+.text-m{
+    margin-top:30%;
+}
+
+.Card .cards h2{
+    font-weight:400;
+}
+.Card .view{
+    margin-top:-50px;
+}
+.Card .card-img-top{
+    text-align:center;
+    height:100px;
+    width:130px !important;
+}
+.Card .card-body{
+    height:300px !important;
+}
+.Card .card-body h4{
+    font-size:25px;
+    font-weight:500 !important;
+}
+.Card .card-body p{
+    font-size:17px;
+    text-align:center;
+    color:#5b5164;
+    padding:10px;
+}
+.merchants_logo img{
+    height:60px;
+    width:130px;
+}
+.margin-top{
+    margin-top:20%;
+}
+.margin-bottom{
+    margin-bottom:10%;
+}
+.merchants{
+    margin-top:150px; 
+}
+.merchants h4{
+    color:#452661;
+    font-size:30px;
+}
+.merchant_cards{
+    margin-top:60px;
+}
+.img{
+    height:auto;
+    width:12%;
+}
+.merch_card{
+    height:350px;
+    width:400px !important;
+    border-radius:5px;
+    margin-left:50px;
+    padding:10px 5px;
+    padding-top:50px;
+}
+.merch_card p{
+    font-size:14px;
+}
+.img-mfooter{
+    height:auto;
+    width:15% !important;
+}
+.img-footer{
+    height:auto;
+    width:5% !important;
+}
+.footer h4{
+    font-size:30px !important;
+    font-weight:400;
+    color:#332640 ;
+}
+
+.bg2{
+    background-image: url("merchant logos/bg2.png");
+    height:80%;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -1;
+    padding-top:250px;
+}
+.footer h4{
+    font-size:30px !important;
+    font-weight:400;
+    color:#332640 ;
+}
