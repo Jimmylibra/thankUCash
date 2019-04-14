@@ -54,7 +54,7 @@ nav ul a:hover{
      border-style:0;
      border-radius:6px;
      height:auto;
-     width:30%;  
+      
      text-decoration:none;
      outline:0;
  }
@@ -100,7 +100,7 @@ nav ul a:hover{
     border-style:0;
     border-radius:8px;
     height:auto;
-    width:20%;  
+
     text-decoration:none;
     outline:0;
 }
@@ -113,3 +113,40 @@ nav ul a:hover{
         background:silver !important;
         height:100px;
     }
+    #input-file-now{
+        background:none;
+        outline:none;
+    }
+    .upload-btn-wrapper {
+        position: relative;
+        overflow: hidden;
+        display: inline-block;
+        width:50%;
+
+      }
+      
+      .btn1 {
+        border: 2px solid gray;
+        color: gray;
+        background-color: white;
+        padding: 30% 30%;
+        border-radius: 8px;
+        font-size: 10px;
+        font-weight: bold;
+      
+        width:100% !important;
+      }
+      
+      .upload-btn-wrapper input[type=file] {
+        font-size: 100px;
+        position: absolute;
+     
+        left: 0;
+        top: 0;
+        opacity: 0;
+      } 
+      .p2{
+        color:#696271 !important;
+        font-size:12px;
+        margin-top:10px;
+      }

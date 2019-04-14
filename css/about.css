@@ -21,10 +21,12 @@ nav ul a:hover{
 .c1
 {  
     background-image: url("../img/about/bg.png") !important;
-    height: 100%;
+
+    height:auto;
     padding:5% 0%;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom:20%;
 
  
 }

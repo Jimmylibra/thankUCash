@@ -26,11 +26,12 @@ nav ul a:hover{
 {  
     padding-top:5%;
     background-image: url("../img/bankingsolution/bg.png");
-    height: 110%;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+padding-bottom:20%;
 }
 .c4
 {   
